@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa AÇIKGÖZ</h1>
-<h3 align="center">A passionate Backend developer from Turkey</h3>
+<h3 align="center">A Backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Backend Development with Java Spring**
 
